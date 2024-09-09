@@ -1,5 +1,3 @@
 ## Check out my [website](https://augustryder.github.io) :joy_cat:
 
- <video loop src="[movie.mp4](https://github.com/user-attachments/assets/fa9f6d6a-c20e-4dda-a8c6-0a86f8817db5)">  video </video> 
-
-
+![Untitled design](https://github.com/user-attachments/assets/2bf555b8-4168-4310-b0c7-e7e1649507a3)
