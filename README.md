@@ -1,4 +1,4 @@
-## Check out my [website](augustryder.github.io) :joy_cat:
+## Check out my [website](https://augustryder.github.io) :joy_cat:
 
 <!--
 **augustryder/augustryder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
