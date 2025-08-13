@@ -2,8 +2,6 @@
 
     I'm a Computer Science student at Trinity University with a passion for music, physics, and programming. 
 
-    👾 I’m currently a Software Engineer Intern at Roblox, working on game engine infrastructure.
-
     🌱 I’m passionate about low-level systems, audio programming, and physics simulations.
 
     🎹 I love to play the piano and produce music.
